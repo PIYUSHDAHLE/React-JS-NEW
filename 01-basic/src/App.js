@@ -4,6 +4,9 @@ function App() {
   return (
     <>
     <h1>Welcome Dahle</h1>
+    <h1>Welcome Dahle</h1>
+    <h1>Welcome Dahle</h1>
+    <h1>Welcome Dahle</h1>
     </>
   );
 }
